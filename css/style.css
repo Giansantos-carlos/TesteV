@@ -1,0 +1,19 @@
+body {
+  background: rgb(24, 28, 36);
+  background-color: rgb(24, 28, 36);
+}
+
+.container {
+  max-width: 400px;
+  background-color: rgb(24, 28, 36);
+  
+}
+
+h1 {
+  font-size: 2.2rem;
+}
+.list-group-item{
+  color: beige  ;
+  background-color: rgb(19, 22, 59);
+  list-style-type: none;
+}
